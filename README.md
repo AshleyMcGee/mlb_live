@@ -1,0 +1,1 @@
+This is the static version of our flask app, frozen with Flask-Freeze.
